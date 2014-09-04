@@ -1,0 +1,3 @@
+service {'iptables':
+    ensure => stopped
+}
